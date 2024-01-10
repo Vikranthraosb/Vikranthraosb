@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikranthraosb" alt="vikranthraosb" /></a> </p>
 
-- 🌱 I’m currently learning **Node,Express**
+- 🌱 I’m currently learning **Node,Express,MongoDB**
 
 - 📝 I regularly write articles on [https://www.geekspeek.in/](https://www.geekspeek.in/)
 
