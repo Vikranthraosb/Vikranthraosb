@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.geekspeek.in/](https://www.geekspeek.in/)
 
-- 💬 Ask me about **Node,Express,MongoDB,GSAP,Tailwind,ScrollTrigger**
+- 💬 Ask me about **Node, Express, MongoDB, GSAP, Tailwind, ScrollTrigger**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vikranth-rao-sb/**
 
