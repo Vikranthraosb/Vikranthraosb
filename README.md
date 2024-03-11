@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vikranth Rao S B</h1>
-<h3 align="center">A passionate Full Stack developer from Karnataka,India</h3>
+<h1 align="center">Hi, I'm Vikranth Rao</h1>
+<h3 align="center">A passionate Full Stack Developer from Karnataka,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikranthraosb&label=Profile%20views&color=0e75b6&style=flat" alt="vikranthraosb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikranthraosb" alt="vikranthraosb" /></a> </p>
 
-- 🌱 I’m currently learning **Node,Express,MongoDB**
+- 🌱 I’m currently learning **REACT**
 
 - 📝 I regularly write articles on [https://www.geekspeek.in/](https://www.geekspeek.in/)
 
-- 💬 Ask me about **Frontend,GSAP**
+- 💬 Ask me about **Node,Express,MongoDB,GSAP,Tailwind,ScrollTrigger**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vikranth-rao-sb/**
 
