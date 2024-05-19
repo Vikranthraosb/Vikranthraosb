@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Vikranth </h1>
+<h1 align="center">Hi, I'm Vikranth  Rao SB </h1>
 <h3 align="center">A passionate Full Stack Developer from Karnataka,India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikranthraosb" alt="vikranthraosb" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT JS**
 
-- 💬 Ask me about **Node, Express, MongoDB, GSAP, Tailwind, ScrollTrigger**
+- 💬 Ask me about **NODE, EXPRESS, MONGODB, GSAP, TAILWIND, SCROLLTRIGGER**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vikranth-rao-sb/**
 
