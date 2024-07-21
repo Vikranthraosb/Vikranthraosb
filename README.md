@@ -7,10 +7,6 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **React JS.**
-
-- 💬 Ask me about **Node.js, Express, MongoDB, GSAP, Tailwind CSS, ScrollTrigger.**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
