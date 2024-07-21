@@ -73,6 +73,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
+<br/>
 
 <p>&nbsp;
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=vikranthraosb&show_icons=true&locale=en" alt="vikranthraosb" />
