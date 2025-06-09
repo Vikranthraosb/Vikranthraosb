@@ -1,12 +1,20 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vikranthraosb&label=Profile%20views&color=0e75b6&style=flat" alt="vikranthraosb" />
+</p>
+
+
 ### Hi, I'm Vikranth Rao SB.
 
 <!-- Vikranth Rao S B -->
 
-# ✨ About Me:
-🛠️ Aspiring Software Engineer. <br>  
-📍 Bengaluru, Karnataka, India. <br>  
-📬 Drop a hey: vikranthraosb001@gmail.com<br>  
-🐦 Follow me on   [X](https://x.com/myself_vikranth) (formerly Twitter).
+<h2>✨ About Me:</h2>
+<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6; max-width: 400px;">
+  <li>🛠️ <strong>Aspiring Software Engineer</strong></li>
+  <li>📍 <strong>Bengaluru, Karnataka, India</strong></li>
+  <li>📬 <strong>Drop a hey:</strong> <a href="mailto:vikranthraosb001@gmail.com" style="color:#0366d6; text-decoration:none;">vikranthraosb001@gmail.com</a></li>
+<li>🐦 <strong>Follow me on</strong> <a href="https://x.com/myself_vikranth" target="_blank" rel="noopener noreferrer" style="color:#1DA1F2; text-decoration:none;">X</a> (formerly Twitter)</li>
+</ul>
+
 
 
 
@@ -62,9 +70,19 @@
 
 
 # 📟 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikranthraosb&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikranthraosb&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikranthraosb&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=vikranthraosb&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vikranthraosb&theme=blueberry&hide_border=false" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikranthraosb&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikranthraosb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -82,6 +100,4 @@
 ---
 
 
-
-[![](https://visitcount.itsvg.in/api?id=vikranthraosb&icon=0&color=0)](https://visitcount.itsvg.in)
 
